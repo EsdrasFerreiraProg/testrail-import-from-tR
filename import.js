@@ -30,9 +30,9 @@ async function readJson() {
 
 // Configuration
 const baseUrl = "https://marketonce.testrail.io/"; // Replace with your TestRail domain
-const username = "survey.aqa.executor@marketonce.com"; // Your TestRail login email
-const apiKey = "hjzBFRrEoDs4D4vUSpk0-KH0.pcGgrpMYsSAkdliK"; // Your TestRail API key
-const sectionId = 14625; // The section ID where the test cases should be added
+const username = ""; // Your TestRail login email
+const apiKey = ""; // Your TestRail API key
+const sectionId = ; // The section ID where the test cases should be added
 
 
 // Function to create the test case
